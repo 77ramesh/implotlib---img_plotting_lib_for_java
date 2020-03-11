@@ -23,6 +23,12 @@ public class ImPlotLib {
 		case RGB:
 			plotRGB(src);
 			break;
+		case HSV:
+			//plotRGB(src);
+			break;
+		case CMYK:
+			//plotRGB(src);
+			break;
 		
 		}
 	}
